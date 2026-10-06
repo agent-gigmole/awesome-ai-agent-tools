@@ -1,62 +1,79 @@
 # Awesome AI Agent Tools
 
-[![Dataset](https://img.shields.io/badge/tools-461-blue)](data/tools.json)
-[![Stars Tracked](https://img.shields.io/badge/GitHub%20stars%20tracked-7.5M-yellow)](data/tools.json)
-[![Updated](https://img.shields.io/badge/updated-daily-green)](https://agentoolrank.com)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
+![Tools](https://img.shields.io/badge/tools-613-blue) ![GitHub stars tracked](https://img.shields.io/badge/GitHub_stars_tracked-15M-yellow) ![Updated weekly](https://img.shields.io/badge/updated-weekly-green) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
-A curated, data-driven dataset of **461 AI agent tools** ranked by GitHub activity. Updated daily via automated pipeline.
+A data-driven AI agent tools dataset with 613 tools, ranked by GitHub activity.
 
-**Browse the full directory: [agentoolrank.com](https://agentoolrank.com)**
+**Browse the full directory: [agentoolrank.com](https://agentoolrank.com/?utm_source=github&utm_medium=awesome)**
 
-## What's Inside
+## Top 30 by Activity Score
 
-- `data/tools.json` — Full dataset (461 tools with metrics, categories, descriptions)
-- `data/tools.csv` — Same data in CSV format
-- `data/categories.json` — 11 category definitions
-
-## Top 20 by Activity Score
-
-| Tool | Stars | Velocity | Pricing | Category |
-|------|------:|----------|---------|----------|
-| [n8n](https://agentoolrank.com/tool/n8n) | 181,354 | +15,113/mo | free | No-Code Builders |
-| [AutoGPT](https://agentoolrank.com/tool/auto-gpt) | 182,873 | +15,239/mo | free | Agent Frameworks |
-| [ollama](https://agentoolrank.com/tool/ollama) | 166,306 | +13,859/mo | open-source | LLM Runtime |
-| [langflow](https://agentoolrank.com/tool/langflow) | 146,311 | +12,193/mo | open-source | No-Code Builders |
-| [dify](https://agentoolrank.com/tool/dify) | 134,723 | +11,227/mo | free | No-Code Builders |
-| [open-webui](https://agentoolrank.com/tool/open-webui) | 128,966 | +10,747/mo | free | Chat UI |
-| [gemini-cli](https://agentoolrank.com/tool/gemini-cli) | 99,285 | +8,274/mo | open-source | CLI Tools |
-| [llama.cpp](https://agentoolrank.com/tool/llama-cpp) | 99,588 | +8,299/mo | open-source | LLM Runtime |
-| [browser-use](https://agentoolrank.com/tool/browser-use) | 84,716 | +7,060/mo | open-source | Browser Agents |
-| [claude-code](https://agentoolrank.com/tool/claude-code) | 83,495 | +6,958/mo | free | Coding Agents |
-| [vllm](https://agentoolrank.com/tool/vllm) | 74,524 | +6,210/mo | open-source | LLM Serving |
-| [lobe-chat](https://agentoolrank.com/tool/lobe-chat) | 74,400 | +6,200/mo | free | Chat UI |
-| [OpenHands](https://agentoolrank.com/tool/openhands) | 69,897 | +5,825/mo | free | Coding Agents |
-| [codex](https://agentoolrank.com/tool/codex) | 67,989 | +5,666/mo | open-source | Coding Agents |
-| [MinerU](https://agentoolrank.com/tool/mineru) | 57,387 | +4,782/mo | free | Document AI |
-| [docling](https://agentoolrank.com/tool/docling) | 56,614 | +4,717/mo | open-source | Document AI |
-| [firecrawl](https://agentoolrank.com/tool/firecrawl) | 99,207 | +8,267/mo | open-source | Browser Agents |
-| [llama_index](https://agentoolrank.com/tool/llama-index) | 48,064 | +4,005/mo | open-source | RAG Framework |
-| [langchain](https://agentoolrank.com/tool/langchain) | 131,299 | +10,943/mo | open-source | Agent Frameworks |
-| [crewAI](https://agentoolrank.com/tool/crewai) | 30,120 | +2,510/mo | open-source | Agent Frameworks |
-
-[View all 461 tools →](https://agentoolrank.com)
+| Tool | Stars | 30-day star velocity | Pricing | Category |
+| --- | --- | --- | --- | --- |
+| [Orca](https://agentoolrank.com/tool/orca) | 86,243 | +19,900/mo | open-source | [Coding Agents](https://agentoolrank.com/category/coding-agents) |
+| [hermes-agent](https://agentoolrank.com/tool/hermes-agent) | 251,582 | +6,380/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [DeepSeek Harness](https://agentoolrank.com/tool/deepseek-harness) | 244,371 | +16,700/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [DBX](https://agentoolrank.com/tool/dbx) | 24,879 | +9,020/mo | open-source | [MCP Servers](https://agentoolrank.com/category/mcp-servers) |
+| [HyperFrames](https://agentoolrank.com/tool/hyperframes) | 57,628 | +14,975/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [OpenHuman](https://agentoolrank.com/tool/openhuman) | 41,137 | +4,510/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [Codex](https://agentoolrank.com/tool/codex) | 128,016 | +9,331/mo | open-source | [Coding Agents](https://agentoolrank.com/category/coding-agents) |
+| [OmniRoute](https://agentoolrank.com/tool/omniroute) | 73,499 | +11,222/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [LiteLLM](https://agentoolrank.com/tool/litellm) | 60,221 | +2,958/mo | free | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [omp](https://agentoolrank.com/tool/oh-my-pi) | 34,443 | +2,850/mo | open-source | [Coding Agents](https://agentoolrank.com/category/coding-agents) |
+| [n8n](https://agentoolrank.com/tool/n8n) | 206,754 | +3,948/mo | free | [No-Code Agent Builders](https://agentoolrank.com/category/no-code-agent-builders) |
+| [Unsloth](https://agentoolrank.com/tool/unsloth) | 77,264 | +2,930/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [vLLM](https://agentoolrank.com/tool/vllm) | 93,263 | +2,913/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [Hindsight](https://agentoolrank.com/tool/hindsight) | 46,174 | +11,590/mo | open-source | [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) |
+| [Cua](https://agentoolrank.com/tool/cua) | 28,354 | +4,025/mo | open-source | [Sandboxes & Execution Environments](https://agentoolrank.com/category/sandboxes-execution) |
+| [llama.cpp](https://agentoolrank.com/tool/llama-cpp) | 130,454 | +4,798/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [Kestra](https://agentoolrank.com/tool/kestra) | 29,297 | +3,715/mo | open-source | [Enterprise Agent Platforms](https://agentoolrank.com/category/enterprise-agent-platforms) |
+| [Hypit](https://agentoolrank.com/tool/hypit) | 19,634 | +8,270/mo | free | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [CopilotKit](https://agentoolrank.com/tool/copilotkit) | 37,776 | +1,239/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [Claude-Mem](https://agentoolrank.com/tool/claude-mem) | 96,901 | +9,415/mo | freemium | [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) |
+| [Graphify](https://agentoolrank.com/tool/graphify) | 124,221 | +7,275/mo | freemium | [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) |
+| [Vibe-Trading](https://agentoolrank.com/tool/vibe-trading) | 34,848 | +2,320/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [ragflow](https://agentoolrank.com/tool/ragflow) | 91,726 | +2,382/mo | open-source | [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) |
+| [Langfuse](https://agentoolrank.com/tool/langfuse) | 35,431 | +1,795/mo | open-source | [Observability & Evaluation](https://agentoolrank.com/category/observability-evaluation) |
+| [text-to-cad](https://agentoolrank.com/tool/text-to-cad) | 17,728 | +6,090/mo | open-source | [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) |
+| [Omnigent](https://agentoolrank.com/tool/omnigent) | 10,614 | +1,195/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [LobeHub](https://agentoolrank.com/tool/lobe-chat) | 83,016 | +1,339/mo | free | [No-Code Agent Builders](https://agentoolrank.com/category/no-code-agent-builders) |
+| [Mastra](https://agentoolrank.com/tool/mastra) | 28,592 | +964/mo | free | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
+| [Cognee](https://agentoolrank.com/tool/cognee) | 31,446 | +2,605/mo | open-source | [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) |
+| [LangChain](https://agentoolrank.com/tool/langchain) | 147,495 | +22,753/mo | open-source | [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) |
 
 ## Categories
 
-| Category | Tools | Description |
-|----------|------:|-------------|
-| Agent Frameworks | 258 | Libraries and SDKs for building AI agents |
-| Memory & Knowledge | 101 | Vector databases, RAG, knowledge graphs |
-| Tool Integration | 85 | MCP servers, function calling, API connectors |
-| Observability & Evaluation | 65 | Tracing, monitoring, eval frameworks |
-| Enterprise Platforms | 51 | Enterprise-grade agent platforms |
-| Voice Agents | 40 | Speech, TTS, telephony agents |
-| No-Code Builders | 20 | Visual workflow builders for agents |
-| Coding Agents | 19 | AI-powered coding assistants |
-| Agent Protocols | 8 | Standards like MCP, A2A |
-| Browser Agents | 7 | Web automation and scraping |
-| Sandboxes | 3 | Isolated code execution environments |
+- [Agent Frameworks](https://agentoolrank.com/category/agent-frameworks) — 166 tools
+- [Memory & Knowledge](https://agentoolrank.com/category/memory-knowledge) — 87 tools
+- [Coding Agents](https://agentoolrank.com/category/coding-agents) — 78 tools
+- [Tool Integration & Infrastructure](https://agentoolrank.com/category/tool-integration) — 74 tools
+- [Observability & Evaluation](https://agentoolrank.com/category/observability-evaluation) — 43 tools
+- [MCP Servers](https://agentoolrank.com/category/mcp-servers) — 42 tools
+- [No-Code Agent Builders](https://agentoolrank.com/category/no-code-agent-builders) — 31 tools
+- [Browser & Web Agents](https://agentoolrank.com/category/browser-web-agents) — 29 tools
+- [Enterprise Agent Platforms](https://agentoolrank.com/category/enterprise-agent-platforms) — 25 tools
+- [Voice Agents](https://agentoolrank.com/category/voice-agents) — 14 tools
+- [Sandboxes & Execution Environments](https://agentoolrank.com/category/sandboxes-execution) — 13 tools
+- [Agent Protocols & Standards](https://agentoolrank.com/category/agent-protocols) — 9 tools
+
+## Popular comparisons
+
+- [deepseek-harness vs hermes-agent](https://agentoolrank.com/compare/deepseek-harness-vs-hermes-agent)
+- [copilotkit vs openhuman](https://agentoolrank.com/compare/copilotkit-vs-openhuman)
+- [omnigent vs vibe-trading](https://agentoolrank.com/compare/omnigent-vs-vibe-trading)
+- [langchain vs mastra](https://agentoolrank.com/compare/langchain-vs-mastra)
+- [ag-ui vs python-sdk](https://agentoolrank.com/compare/ag-ui-vs-python-sdk)
+- [specification vs typescript-sdk](https://agentoolrank.com/compare/specification-vs-typescript-sdk)
+- [a2a vs skills](https://agentoolrank.com/compare/a2a-vs-skills)
+- [bindu vs mcp-go](https://agentoolrank.com/compare/bindu-vs-mcp-go)
+- [browser-use vs firecrawl](https://agentoolrank.com/compare/browser-use-vs-firecrawl)
+- [camofox-browser vs skyvern](https://agentoolrank.com/compare/camofox-browser-vs-skyvern)
+- [browseros vs crawl4ai](https://agentoolrank.com/compare/browseros-vs-crawl4ai)
+- [feynman vs opencli](https://agentoolrank.com/compare/feynman-vs-opencli)
+
+## Updates
+
+This dataset is exported from the live agentoolrank.com database on a local machine and pushed weekly, together with this generated README.
 
 ## Ranking Methodology
 
@@ -129,22 +146,6 @@ df = pd.read_csv("data/tools.csv")
 print(df.groupby("pricing")["stars"].sum())
 ```
 
-## Updates
-
-This dataset is updated daily via an automated GitHub Actions pipeline:
-
-1. **Crawl** — Fetch latest metrics from GitHub GraphQL API
-2. **Clean** — Remove non-agent tools, filter by relevance
-3. **Rank** — Recompute activity scores and percentile ranks
-4. **Export** — Generate fresh JSON/CSV files
-
-## Contributing
-
-Found a tool that should be listed? Open an issue with:
-- GitHub repo URL
-- Brief description of what it does
-- Which category it belongs to
-
 ## License
 
 MIT — free to use, modify, and distribute. Attribution appreciated.
@@ -154,3 +155,5 @@ Data sourced from public GitHub APIs. Tool descriptions generated by LLM based o
 ---
 
 **Built by [AgenTool Rank](https://agentoolrank.com)** — The data-driven AI agent tools directory.
+
+_Generated 2026-10-06 from the live agentoolrank.com database._

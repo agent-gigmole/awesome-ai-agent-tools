@@ -4,76 +4,83 @@
     "name": "Agent Frameworks",
     "description": "Code-first libraries and SDKs for building, orchestrating, and deploying autonomous AI agents",
     "icon": "🏗️",
-    "tool_count": 258
+    "tool_count": 166
   },
   {
     "slug": "memory-knowledge",
     "name": "Memory & Knowledge",
     "description": "Persistent memory layers and vector databases that give agents long-term recall and contextual retrieval",
     "icon": "🧠",
-    "tool_count": 101
-  },
-  {
-    "slug": "tool-integration",
-    "name": "Tool Integration & Infrastructure",
-    "description": "Connectors and platforms that let agents authenticate with and take actions across third-party APIs",
-    "icon": "🔌",
-    "tool_count": 85
-  },
-  {
-    "slug": "observability-evaluation",
-    "name": "Observability & Evaluation",
-    "description": "Monitoring, tracing, and testing infrastructure for running AI agents reliably in production",
-    "icon": "📡",
-    "tool_count": 65
-  },
-  {
-    "slug": "enterprise-agent-platforms",
-    "name": "Enterprise Agent Platforms",
-    "description": "Production-grade platforms from major vendors for deploying AI agents at scale across business functions",
-    "icon": "🏢",
-    "tool_count": 51
-  },
-  {
-    "slug": "voice-agents",
-    "name": "Voice Agents",
-    "description": "Platforms for building AI agents that converse in real-time voice for customer service and telephony",
-    "icon": "🎙️",
-    "tool_count": 40
-  },
-  {
-    "slug": "no-code-agent-builders",
-    "name": "No-Code Agent Builders",
-    "description": "Visual and low-code platforms that let non-developers create AI agents through drag-and-drop interfaces",
-    "icon": "🧩",
-    "tool_count": 20
+    "tool_count": 87
   },
   {
     "slug": "coding-agents",
     "name": "Coding Agents",
     "description": "AI-powered tools that autonomously write, review, debug, and deploy code",
     "icon": "💻",
-    "tool_count": 19
+    "tool_count": 78
   },
   {
-    "slug": "agent-protocols",
-    "name": "Agent Protocols & Standards",
-    "description": "Open standards and protocols defining how agents communicate with tools and collaborate with other agents",
-    "icon": "📜",
-    "tool_count": 8
+    "slug": "tool-integration",
+    "name": "Tool Integration & Infrastructure",
+    "description": "Connectors and platforms that let agents authenticate with and take actions across third-party APIs",
+    "icon": "🔌",
+    "tool_count": 74
+  },
+  {
+    "slug": "observability-evaluation",
+    "name": "Observability & Evaluation",
+    "description": "Monitoring, tracing, and testing infrastructure for running AI agents reliably in production",
+    "icon": "📡",
+    "tool_count": 43
+  },
+  {
+    "slug": "mcp-servers",
+    "name": "MCP Servers",
+    "description": "Model Context Protocol servers, SDKs and tooling that give AI agents access to tools, data and apps.",
+    "icon": "🔌",
+    "tool_count": 42
+  },
+  {
+    "slug": "no-code-agent-builders",
+    "name": "No-Code Agent Builders",
+    "description": "Visual and low-code platforms that let non-developers create AI agents through drag-and-drop interfaces",
+    "icon": "🧩",
+    "tool_count": 31
   },
   {
     "slug": "browser-web-agents",
     "name": "Browser & Web Agents",
     "description": "Tools enabling AI agents to navigate websites, interact with web UIs, and extract structured data",
     "icon": "🌐",
-    "tool_count": 7
+    "tool_count": 29
+  },
+  {
+    "slug": "enterprise-agent-platforms",
+    "name": "Enterprise Agent Platforms",
+    "description": "Production-grade platforms from major vendors for deploying AI agents at scale across business functions",
+    "icon": "🏢",
+    "tool_count": 25
+  },
+  {
+    "slug": "voice-agents",
+    "name": "Voice Agents",
+    "description": "Platforms for building AI agents that converse in real-time voice for customer service and telephony",
+    "icon": "🎙️",
+    "tool_count": 14
   },
   {
     "slug": "sandboxes-execution",
     "name": "Sandboxes & Execution Environments",
     "description": "Secure, isolated runtime environments where AI agents can safely execute code and interact with OS",
     "icon": "🔒",
-    "tool_count": 3
+    "tool_count": 13
+  },
+  {
+    "slug": "agent-protocols",
+    "name": "Agent Protocols & Standards",
+    "description": "Open standards and protocols defining how agents communicate with tools and collaborate with other agents",
+    "icon": "📜",
+    "tool_count": 9
   }
 ]
